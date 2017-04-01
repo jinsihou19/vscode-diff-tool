@@ -23,11 +23,11 @@
         "commands": [
             {
                 "command": "extension.diffTool.diffToolLeft",
-                "title": "选为diff前一个文件"
+                "title": "DiffTool: Mark 1st file"
             },
             {
                 "command": "extension.diffTool.diffToolRight",
-                "title": "选为diff后一个文件"
+                "title": "DiffTool: Mark 2nd file"
             }
         ],
         "menus": {

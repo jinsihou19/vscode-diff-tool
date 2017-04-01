@@ -4,7 +4,7 @@ simple diff tool.
 
 ## Features
 
-在一个打开的文件中右键->选为diff文件，再次选择一个即可查看diff结果。
+In current file right click -> Select as first file for diff, select one again to view the diff results.
 
 ## Release Notes
 
